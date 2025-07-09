@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website built using **React.js** and deployed via **GitHub Pages**. This project showcases my work, skills, and experience as a developer. You can view my live portfolio site here:
 
-🔗 **[Visit the Portfolio](https://devopulent.github.io/)**
+🔗 **[Visit my Portfolio](https://devopulent.github.io/)**
 
 ---
 
