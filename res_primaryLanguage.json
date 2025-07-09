@@ -1,0 +1,163 @@
+{
+    "basic_info": {
+      "description_header": "Hello World!",
+      "description": "👋 I'm Edward Garcia, a Computer Science graduate with a passion for developing, and solving complex problems through technology. My interests span across Software Engineering, Machine Learning, Artificial Intelligence, Cybersecurity, IT and Robotics. With experience in full-stack development, application design, automation engineering, CAD modeling, 3D printing, and hardware design, I blend software and hardware to create innovative solutions. I’m a lifelong learner who thrives on staying current with emerging technologies and continuously sharpening my skills. My goal? To contribute to impactful projects, push the boundaries of creation, and become the best engineer I can be.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience  "
+      }
+    },
+    "projects": [
+      {
+        "title": "Animal Shelter",
+        "startDate": "2023",
+        "description": "EJG's Animal Shelter is a web-based application I developed using Python to manage animal rescue and adoption workflows. It features an interactive interface built with Dash Bootstrap and a MongoDB backend for secure CRUD operations. I used Jupyter Notebook for data analysis, Postman for API testing, and Docker for containerization. Key features include real-time data search and export, MFA-secured login, role-based access control, error handling, and logging. I implemented performance optimizations with an LRU cache, hash maps, and binary search. The application is designed with a strong focus on security, scalability, and clean architecture. It allows the user to login in with their set credentials and manage the animal database by downloading, filtering and refreshing the data. They can also search for a specific animal and view its geographical location within the integrated map",
+        "images": [
+          "images/portfolio/animal-shelter/p0.png",
+          "images/portfolio/animal-shelter/p3.jpg",
+          "images/portfolio/animal-shelter/p4.png",
+          "images/portfolio/animal-shelter/p5.png",
+          "images/portfolio/animal-shelter/p6.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-jupyter-plain",
+            "name": "Jupyter Notebook"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-postman-plain",
+            "name": "Postman"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          }
+          
+        ]
+      },
+      {
+        "title": "Travlr Getaways",
+        "startDate": "2025",
+        "description": "Travlr Getaways is a full-stack web application I developed, built on the MEAN stack (MongoDB, Express.js, Angular, Node.js). On the customer-facing side, I utilized Angular to create an intuitive user experience, allowing customers to easily browse trips and interact with the application through features like dropdown menus, animations, and live updates. MongoDB serves as the database for storing trip and user information. The middle layer, composed of Node.js and Express.js, handles API calls and facilitates communication between the frontend and the database, resulting in a fast and scalable backend. For administrative content control, I created an Angular single-page application (SPA), which allows administrators to create, modify, and remove trips with immediate reflection on the customer-facing side, simplifying content administration and data integrity. The application also features an authentication system using Passport.js and JWTs, and includes explicit CORS configuration, demonstrating a decoupled architecture designed for secure and efficient travel data management. Key tools and resources include HTML, CSS, JavaScript, Node.js, Express.js, Angular, MongoDB, Passport.js, JWT, and Handlebars",
+        "images": [
+          "images/portfolio/photography/p0.jpg",
+          "images/portfolio/photography/p3.png",
+          "images/portfolio/photography/p4.png",
+          "images/portfolio/photography/p5.png",
+          "images/portfolio/photography/p6.png",
+          "images/portfolio/photography/p7.png",
+          "images/portfolio/photography/p8.png",
+          "images/portfolio/photography/p9.png",
+          "images/portfolio/photography/p10.png",
+          "images/portfolio/photography/p11.png",
+          "images/portfolio/photography/p12.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-angular-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "TrackFit",
+        "startDate": "2024",
+        "description": "TrackFit is an intuitive Android mobile application I developed using Android Studio and Kotlin, designed to help users effectively manage and achieve their weight goals. The app allows users to create and securely log into their personal accounts. Upon logging in, users can set a specific numerical goal weight and then seamlessly track their daily progress by inputting their current weight. A key feature of TrackFit is its automated notification system: once a user successfully reaches their target weight, the application sends a congratulatory text message informing them of their achievement. Furthermore, I implemented comprehensive data management capabilities, enabling users to easily view, edit, and delete their past weight entries, providing full control over their fitness journey. TrackFit offers a user-friendly interface, making weight tracking simple, motivational, and highly accessible.",
+        "images": [
+          "images/portfolio/adventure/p0.jpg",
+          "images/portfolio/adventure/p3.png",
+          "images/portfolio/adventure/p4.png",
+          "images/portfolio/adventure/p5.png",
+          "images/portfolio/adventure/p6.png",
+          "images/portfolio/adventure/p7.png",
+          "images/portfolio/adventure/p8.png",
+          "images/portfolio/adventure/p9.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-androidstudio-plain",
+            "name": "Android Studio"
+          },
+          {
+            "class": "devicon-kotlin-plain",
+            "name": "Kotlin"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "P.A.S",
+        "title": "Operations Administrator",
+        "years": "10.2013 - present",
+        "mainTech": [
+          "Technology Operations"
+        ],
+        "technologies": [
+          "REST API",
+          "SQL",
+          "JavaScript",
+          "HTML",
+          "MS Server",
+          "MS 365",
+          ".NET Core",
+          "CSS",
+          "Automation"
+        ]
+      },
+      {
+        "company": "TaskUs",
+        "title": "Technical Support Engineer",
+        "years": "11.2024 - 05.2025",
+        "mainTech": [
+          "API Integrations & Web Development"
+        ],
+        "technologies": [
+          "API",
+          "HTML",
+          "Jira",
+          "JavaScript",
+          "CSS",
+          "Zendesk",
+          "Integrations"
+        ]
+      }
+    ]
+  }
