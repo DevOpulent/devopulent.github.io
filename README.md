@@ -19,19 +19,5 @@ Content is loaded dynamically from local JSON files (`portfolio_shared_data.json
 
 ---
 
-## 🛠️ Tech Stack
-
-| Tech              | Description                                |
-|-------------------|--------------------------------------------|
-| React             | Front-end library for UI                   |
-| Bootstrap         | Responsive layout and UI components        |
-| SCSS              | Theming and custom styles                  |
-| jQuery (AJAX)     | Fetching local JSON content on load        |
-| gh-pages          | Deployment to GitHub Pages                 |
-| react-vertical-timeline-component | Timeline UI for experience        |
-| react-typical     | Typing animation for intro header          |
-| react-switch      | Dark/light theme toggle                    |
-
----
 
 
